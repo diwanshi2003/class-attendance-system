@@ -1,4 +1,10 @@
+# 4.Design a Webpage Using a CMS:
+
+Objective: To familiarize the intern with content management systems.
+Details: Create a webpage or a small website using a CMS like WordPress. This task should include customizing a theme and adding content.
+Tools: WordPress (or another CMS), HTML, CSS, and some basic PHP knowledge for customization.
 # class-attendance-system
+
 This code creates a login page for a Student Attendance Management System, allowing users to log in as either an Administrator or a ClassTeacher. Here's a summary of its components and functionality:
 
 - **HTML Structure**: 
